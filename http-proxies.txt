@@ -26,3 +26,5 @@ This is a new line added to the text file.
 77.82.87.166:8080 | TIMEOUT: 6 | BY: @V_IRUuS
 
 94.23.171.143:50001 | TIMEOUT: 4 | BY: @V_IRUuS
+
+27.79.62.167:22552 | TIMEOUT: 5 | BY: @V_IRUuS
