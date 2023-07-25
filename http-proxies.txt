@@ -10,3 +10,5 @@ This is a new line added to the text file.
 103.167.69.242:8080 | TIMEOUT: 6 | BY: @V_IRUuS
 
 103.167.107.149:8080 | TIMEOUT: 0 | BY: @V_IRUuS
+
+45.70.221.145:18080 | TIMEOUT: 0 | BY: @V_IRUuS
